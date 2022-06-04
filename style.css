@@ -24,6 +24,5 @@ body {
 
 .column {
   flex: 30%;
-  background-color: lightgrey;
-  opacity: 0.01
+  background: rgba(236, 236, 236, .1) 
 }
