@@ -24,4 +24,6 @@ body {
 
 .column {
   flex: 30%;
+  background-color: lightgrey;
+  opacity: 0.01
 }
