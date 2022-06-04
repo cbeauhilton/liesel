@@ -7,6 +7,8 @@ h1 {
 
 body {
   color: LimeGreen;
+  background: #000000;
+  opacity: .1
 }
 
 .hero-image {
